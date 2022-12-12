@@ -17,7 +17,7 @@
 
 ### Demo Screeshots
 
-![Glassmorphism Profile Card Desktop Demo](./readme-images/Glassmorphism-Profile-Card.png "Desktop Demo")
+![Profile Card Desktop Demo](./readme-images/Profile-Card.jng "Desktop Demo")
 
 ### Prerequisites
 
@@ -27,23 +27,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **glassmorphism-profile-card** locally, run this command on your git bash:
+To run **profile-card** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/geeky-prashant/glassmorphism-profile-card.git
+sudo git clone https://github.com/amarelegesse/profile-card.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/geeky-prashant/glassmorphism-profile-card.git
+git clone https://github.com/amarelegesse/profile-card.git
 ```
 
 ### Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/geekyprashant).
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/amarelegesse).
 
 ### License
 
